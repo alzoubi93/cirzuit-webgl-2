@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix CirZuit-footprints-k",
+  "description": "Imported from GitHub: alzoubi93/CirZuit-footprints-k",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
